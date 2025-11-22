@@ -11,7 +11,7 @@ let verde = inputVerde.value ;
 let azul = inputAzul.value ;
 
 
-textoAzul.innerText = rojo;
+textoRojo.innerText = rojo;
 textoVerde.innerText = verde;
 textoAzul.innerText = azul;
 
